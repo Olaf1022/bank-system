@@ -8,3 +8,5 @@ namespace DemoShop.Models
         public ICollection<Order> Orders { get; set; }
     }
 }
+
+
