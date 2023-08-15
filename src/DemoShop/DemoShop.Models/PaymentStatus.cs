@@ -6,4 +6,3 @@ namespace DemoShop.Models
         Completed
     }
 }
-
